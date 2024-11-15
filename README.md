@@ -9,15 +9,18 @@
   cd Mental_Health
 
 2. Create a virtual environment
+   
 bash
 
    python -m venv venv
-   source venv/bin/activate
+   
 
    # For Linux/Mac
-   venv\Scripts\activate
+   source venv/bin/activate
+   
 
    # For Windows
+   venv\Scripts\activate
 4. Install required packages
 bash
    pip install -r requirements.txt
