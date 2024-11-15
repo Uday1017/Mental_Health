@@ -2,8 +2,10 @@
 ![WhatsApp Image 2024-11-15 at 21 36 35_dd4b46e3](https://github.com/user-attachments/assets/8c7aa6c6-b1dc-4785-8a70-d02f38d7e389)
 
 
-﻿# Mental_Health
+﻿## Mental_Health
+
 1.git clone https://github.com/MohanMahesh10/Mental_Health.git
+
   cd Mental_Health
 
 2. Create a virtual environment
