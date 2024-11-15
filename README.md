@@ -21,6 +21,8 @@ bash
 
    # For Windows
    venv\Scripts\activate
+
+   
 4. Install required packages
 bash
    pip install -r requirements.txt
