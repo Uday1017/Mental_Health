@@ -10,10 +10,15 @@
 
 2. Create a virtual environment
 bash
+
    python -m venv venv
-   source venv/bin/activate # For Linux/Mac
-   venv\Scripts\activate # For Windows
-3. Install required packages
+   source venv/bin/activate
+
+   # For Linux/Mac
+   venv\Scripts\activate
+
+   # For Windows
+4. Install required packages
 bash
    pip install -r requirements.txt
 
